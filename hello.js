@@ -9,13 +9,10 @@ const b=()=>{
 
 
 
-
+const e= ()=>{
+alert("e")
 
 const c=()=>{
   console.log("function c");
   
-}
-
-const e= ()=>{
-alert("e")
 }
